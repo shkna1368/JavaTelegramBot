@@ -1,0 +1,13 @@
+﻿start_cooking - به خیر بین (خوش آمدید)
+sanandaj - سنه(سنندج)
+mahabad - مهاباد
+kermanshah - کرماشان(کرمانشاه)
+hawlir - هه ولیر
+solaymania - سلیمانیه
+diarbakr - دیاربکر
+kobani - کوبانی
+cheisht - چیشت (غذا)
+inventory -   چه مان هه س؟(موجودی)
+kurdestan_news_kurdi - kurdpress kurdi
+kurdestan_news_english - kurdpress English
+article - گوتار (مقاله)
